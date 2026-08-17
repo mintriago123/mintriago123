@@ -4,48 +4,48 @@
 
 [English version](./README_EN.md)
 
+## Sobre mí
+
 Soy estudiante de **Ingeniería de Software en Ecuador**, interesado en el desarrollo de software, los sistemas Linux y la infraestructura TI.
 
 Mi enfoque principal está en el **desarrollo fullstack con TypeScript**, combinado con experiencia práctica en **Linux, servidores, virtualización, contenedores, redes y self-hosting**.
 
 Me gusta aprender construyendo, desplegando y manteniendo proyectos reales, además de experimentar con la infraestructura que existe detrás del software.
 
-## Actualmente
+Actualmente:
 
-* Desarrollo un **sistema de gestión e inventario para un Banco de Alimentos** con Next.js, TypeScript y Supabase.
-* Experimento con **Linux, virtualización, contenedores y self-hosting**.
-* Mantengo un **homelab** para probar servicios, máquinas virtuales y diferentes tecnologías.
-* Investigo y experimento con compatibilidad de hardware y configuración de sistemas Linux.
+- Desarrollo un **sistema de gestión e inventario para un Banco de Alimentos** con Next.js, TypeScript y Supabase.
+- Experimento con **Linux, virtualización, contenedores y self-hosting**.
+- Mantengo un **homelab** para probar servicios, máquinas virtuales y diferentes tecnologías.
+- Investigo y experimento con compatibilidad de hardware y configuración de sistemas Linux.
+
+---
 
 ## Tecnologías
 
-**Lenguajes**
+### Lenguajes
 
-`TypeScript` `JavaScript` `Python` `C#` `Kotlin`
+[![Lenguajes](https://skillicons.dev/icons?i=ts,js,python,cs,kotlin)](https://skillicons.dev)
 
-**Frontend**
+### Desarrollo
 
-`React` `Next.js` `Vue`
+[![Desarrollo](https://skillicons.dev/icons?i=react,nextjs,vue,nestjs,fastapi,dotnet)](https://skillicons.dev)
 
-**Backend**
+### Bases de datos
 
-`NestJS` `FastAPI` `.NET`
+[![Bases de datos](https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite)](https://skillicons.dev)
 
-**Bases de datos**
+### Infraestructura y DevOps
 
-`PostgreSQL` `Supabase` `MySQL` `SQLite`
+[![Infraestructura](https://skillicons.dev/icons?i=linux,docker,git,githubactions,azure,gcp)](https://skillicons.dev)
 
-**Infraestructura y DevOps**
+**También trabajo con:** `Proxmox VE` · `Podman` · `Distrobox`
 
-`Linux` `Docker` `Podman` `Proxmox VE` `Git` `GitHub Actions`
+### Datos y analítica
 
-**Cloud**
+`Power BI` · `DAX` · `Excel` · `ETL`
 
-`Azure` `Google Cloud` `Vercel` `Render`
-
-**Datos y analítica**
-
-`Power BI` `DAX` `Excel / ETL`
+---
 
 ## Proyectos destacados
 
@@ -53,7 +53,7 @@ Me gusta aprender construyendo, desplegando y manteniendo proyectos reales, adem
 
 Sistema fullstack desarrollado para gestionar el inventario y diferentes procesos operativos de un Banco de Alimentos.
 
-Construido utilizando **Next.js, React, TypeScript, PostgreSQL y Supabase**, con especial atención a la arquitectura, autorización, integridad de datos y pruebas automatizadas.
+Construido con **Next.js, React, TypeScript, PostgreSQL y Supabase**, con especial atención a la arquitectura, autorización, integridad de datos y pruebas automatizadas.
 
 [Ver repositorio](https://github.com/mintriago123/tesis_banco_alimentos)
 
@@ -69,48 +69,54 @@ Configuración y experimentación con NixOS para el **Lenovo ThinkBook 13s G4 AR
 
 [Ver repositorio](https://github.com/mintriago123/nixos-thinkbook-13s-arb-g4)
 
+---
+
 ## Infraestructura y Homelab
 
-También cuento con experiencia práctica trabajando con infraestructura TI.
+Cuento con experiencia práctica trabajando con infraestructura TI.
 
 Durante mis prácticas preprofesionales he trabajado con:
 
-* Servidores físicos y hardware empresarial.
-* Mapeo de redes y organización de switches.
-* Configuración de almacenamiento RAID.
-* Proxmox VE y virtualización.
-* Entornos Linux.
-* Máquinas virtuales.
-* Migración de un servicio en producción desde un servidor físico hacia un entorno virtualizado.
+- Servidores físicos y hardware empresarial.
+- Mapeo de redes y organización de switches.
+- Configuración de almacenamiento RAID.
+- Proxmox VE y virtualización.
+- Entornos Linux.
+- Máquinas virtuales.
+- Migración de un servicio en producción desde un servidor físico hacia un entorno virtualizado.
 
 Además, mantengo un **homelab personal** donde experimento con servidores Linux, redes, contenedores, virtualización y servicios self-hosted.
+
+---
 
 ## Otros proyectos y experimentos
 
 También utilizo GitHub como espacio para aprender y experimentar con diferentes áreas:
 
-* Inteligencia Artificial
-* Desarrollo de videojuegos
-* Linux y personalización del sistema
-* Compatibilidad de hardware
-* Análisis de datos
-* Automatización
+- Inteligencia Artificial
+- Desarrollo de videojuegos
+- Linux y personalización del sistema
+- Compatibilidad de hardware
+- Análisis de datos
+- Automatización
 
 Algunos de mis repositorios son proyectos experimentales cuyo objetivo principal es explorar y aprender nuevas tecnologías.
 
+---
+
 ## Actualmente aprendiendo
 
-Continúo profundizando mis conocimientos en:
+- Arquitectura de software
+- Desarrollo backend
+- Administración de sistemas Linux
+- DevOps e infraestructura
+- Ciberseguridad
+- Redes
+- Inteligencia Artificial
 
-* Arquitectura de software
-* Desarrollo backend
-* Administración de sistemas Linux
-* DevOps e infraestructura
-* Ciberseguridad
-* Redes
-* Inteligencia Artificial
+---
 
 ## Contacto
 
-* **LinkedIn:** [Michael Intriago](https://www.linkedin.com/in/michael-intriago-1aa968375/)
-* **GitHub:** [@mintriago123](https://github.com/mintriago123)
+**LinkedIn:** [Michael Intriago](https://www.linkedin.com/in/michael-intriago-1aa968375/)  
+**GitHub:** [@mintriago123](https://github.com/mintriago123)
