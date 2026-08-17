@@ -1,122 +1,123 @@
 # Michael Intriago
 
-**Estudiante de Ingeniería de Software | Desarrollo Fullstack | Linux e Infraestructura**
+**Software Engineering Student | Fullstack Development | Linux & Infrastructure**
 
-[English version](./README_EN.md)
+## About Me
 
-## Sobre mí
+I'm a **Software Engineering student from Ecuador** interested in software development, Linux systems, and IT infrastructure.
 
-Soy estudiante de **Ingeniería de Software en Ecuador**, interesado en el desarrollo de software, los sistemas Linux y la infraestructura TI.
+My main focus is **fullstack development with TypeScript**, combined with hands-on experience in **Linux, servers, virtualization, containers, networking, and self-hosting**.
 
-Mi enfoque principal está en el **desarrollo fullstack con TypeScript**, combinado con experiencia práctica en **Linux, servidores, virtualización, contenedores, redes y self-hosting**.
+I enjoy learning by building, deploying, and maintaining real projects, as well as experimenting with the infrastructure behind software.
 
-Me gusta aprender construyendo, desplegando y manteniendo proyectos reales, además de experimentar con la infraestructura que existe detrás del software.
+Currently:
 
-Actualmente:
-
-- Desarrollo un **sistema de gestión e inventario para un Banco de Alimentos** con Next.js, TypeScript y Supabase.
-- Experimento con **Linux, virtualización, contenedores y self-hosting**.
-- Mantengo un **homelab** para probar servicios, máquinas virtuales y diferentes tecnologías.
-- Investigo y experimento con compatibilidad de hardware y configuración de sistemas Linux.
+* Developing a **management and inventory system for a Food Bank** using Next.js, TypeScript, and Supabase.
+* Experimenting with **Linux, virtualization, containers, and self-hosting**.
+* Maintaining a personal **homelab** for testing services, virtual machines, and different technologies.
+* Exploring Linux hardware compatibility and system configuration.
 
 ---
 
-## Tecnologías
+## Technologies
 
-### Lenguajes
+### Languages
 
-[![Lenguajes](https://skillicons.dev/icons?i=ts,js,python,cs,kotlin)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,cs,kotlin)](https://skillicons.dev)
 
-### Desarrollo
+### Development
 
-[![Desarrollo](https://skillicons.dev/icons?i=react,nextjs,vue,nestjs,fastapi,dotnet)](https://skillicons.dev)
+[![Development](https://skillicons.dev/icons?i=react,nextjs,vue,nestjs,fastapi,dotnet)](https://skillicons.dev)
 
-### Bases de datos
+### Databases
 
-[![Bases de datos](https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,supabase,mysql,sqlite)](https://skillicons.dev)
 
-### Infraestructura y DevOps
+### Infrastructure & DevOps
 
-[![Infraestructura](https://skillicons.dev/icons?i=linux,docker,git,githubactions,azure,gcp)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=linux,docker,git,githubactions,azure,gcp)](https://skillicons.dev)
 
-**También trabajo con:** `Proxmox VE` · `Podman` · `Distrobox`
+**I also work with:** `Proxmox VE` · `Podman` · `Distrobox`
 
-### Datos y analítica
+### Data & Analytics
 
 `Power BI` · `DAX` · `Excel` · `ETL`
 
 ---
 
-## Proyectos destacados
+## Featured Projects
 
-### Sistema de Gestión para Banco de Alimentos
+### Food Bank Management System
 
-Sistema fullstack desarrollado para gestionar el inventario y diferentes procesos operativos de un Banco de Alimentos.
+Fullstack system developed to manage inventory and different operational processes for a Food Bank.
 
-Construido con **Next.js, React, TypeScript, PostgreSQL y Supabase**, con especial atención a la arquitectura, autorización, integridad de datos y pruebas automatizadas.
+Built with **Next.js, React, TypeScript, PostgreSQL, and Supabase**, with a focus on architecture, authorization, data integrity, and automated testing.
 
-[Ver repositorio](https://github.com/mintriago123/tesis_banco_alimentos)
+[View repository](https://github.com/mintriago123/tesis_banco_alimentos)
 
-### FPC 10a5:9800 — Soporte de lector de huellas en Linux
+### FPC 10a5:9800 — Linux Fingerprint Reader Support
 
-Proyecto enfocado en documentar y facilitar la compatibilidad del lector de huellas **FPC 10a5:9800 en Linux**, trabajando con drivers, `libfprint`, reglas udev e integración con el sistema.
+Project focused on documenting and improving compatibility for the **FPC 10a5:9800 fingerprint reader on Linux**, working with drivers, `libfprint`, udev rules, and system integration.
 
-[Ver repositorio](https://github.com/mintriago123/FPC-10a5-9800)
+[View repository](https://github.com/mintriago123/FPC-10a5-9800)
 
 ### NixOS — ThinkBook 13s
 
-Configuración y experimentación con NixOS para el **Lenovo ThinkBook 13s G4 ARB**, enfocada en configuración reproducible, compatibilidad de hardware y administración del sistema.
+NixOS configuration and experimentation for the **Lenovo ThinkBook 13s G4 ARB**, focused on reproducible configuration, hardware compatibility, and system administration.
 
-[Ver repositorio](https://github.com/mintriago123/nixos-thinkbook-13s-arb-g4)
-
----
-
-## Infraestructura y Homelab
-
-Cuento con experiencia práctica trabajando con infraestructura TI.
-
-Durante mis prácticas preprofesionales he trabajado con:
-
-- Servidores físicos y hardware empresarial.
-- Mapeo de redes y organización de switches.
-- Configuración de almacenamiento RAID.
-- Proxmox VE y virtualización.
-- Entornos Linux.
-- Máquinas virtuales.
-- Migración de un servicio en producción desde un servidor físico hacia un entorno virtualizado.
-
-Además, mantengo un **homelab personal** donde experimento con servidores Linux, redes, contenedores, virtualización y servicios self-hosted.
+[View repository](https://github.com/mintriago123/nixos-thinkbook-13s-arb-g4)
 
 ---
 
-## Otros proyectos y experimentos
+## Infrastructure & Homelab
 
-También utilizo GitHub como espacio para aprender y experimentar con diferentes áreas:
+I have hands-on experience working with IT infrastructure.
 
-- Inteligencia Artificial
-- Desarrollo de videojuegos
-- Linux y personalización del sistema
-- Compatibilidad de hardware
-- Análisis de datos
-- Automatización
+During my pre-professional internship, I worked with:
 
-Algunos de mis repositorios son proyectos experimentales cuyo objetivo principal es explorar y aprender nuevas tecnologías.
+* Physical servers and enterprise hardware.
+* Network mapping and switch organization.
+* RAID storage configuration.
+* Proxmox VE and virtualization.
+* Linux environments.
+* Virtual machines.
+* Migration of a production service from a physical server to a virtualized environment.
 
----
-
-## Actualmente aprendiendo
-
-- Arquitectura de software
-- Desarrollo backend
-- Administración de sistemas Linux
-- DevOps e infraestructura
-- Ciberseguridad
-- Redes
-- Inteligencia Artificial
+I also maintain a personal **homelab** where I experiment with Linux servers, networking, containers, virtualization, and self-hosted services.
 
 ---
 
-## Contacto
+## Other Projects & Experiments
 
-**LinkedIn:** [Michael Intriago](https://www.linkedin.com/in/michael-intriago-1aa968375/)  
+I also use GitHub as a space to learn and experiment with different areas:
+
+* Artificial Intelligence
+* Game development
+* Linux and system customization
+* Hardware compatibility
+* Data analysis
+* Automation
+
+Some of my repositories are experimental projects primarily intended for exploring and learning new technologies.
+
+---
+
+## Currently Learning
+
+* Software architecture
+* Backend development
+* Linux systems administration
+* DevOps & Infrastructure
+* Cybersecurity
+* Networking
+* Artificial Intelligence
+
+---
+
+## Contact
+
+**LinkedIn:** [Michael Intriago](https://www.linkedin.com/in/michael-intriago-1aa968375/)
 **GitHub:** [@mintriago123](https://github.com/mintriago123)
+
+---
+
