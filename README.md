@@ -114,7 +114,3 @@ Continúo profundizando mis conocimientos en:
 
 * **LinkedIn:** [Michael Intriago](https://www.linkedin.com/in/michael-intriago-1aa968375/)
 * **GitHub:** [@mintriago123](https://github.com/mintriago123)
-
----
-
-> Me interesa entender la tecnología más allá de la aplicación: desde el software que ejecutamos hasta la infraestructura que existe detrás de él.
