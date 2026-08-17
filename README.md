@@ -117,7 +117,5 @@ Some of my repositories are experimental projects primarily intended for explori
 ## Contact
 
 **LinkedIn:** [Michael Intriago](https://www.linkedin.com/in/michael-intriago-1aa968375/)
-**GitHub:** [@mintriago123](https://github.com/mintriago123)
 
----
 
